@@ -1,0 +1,2 @@
+# An-Interactive-Dashboard-for-Exploring-and-Explaining-SHAP-LIME-in-Intrusion-Detection
+Intrusion detection plays a critical role in safeguarding network security by identifying and mitigating potential threats. This project presents an interactive dashboard designed to explore and explain the performance of different intrusion detection models. Leveraging state-of-the-art machine learning techniques.
